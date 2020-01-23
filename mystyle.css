@@ -8,3 +8,8 @@ h1 {
   color: yellow;
   margin-left: 20px;
 }
+
+table{
+	color:red;
+	background-color: yellow;
+}
